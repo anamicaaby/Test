@@ -14,9 +14,9 @@ public class FirstClass {
 	     String s=" ";
 	     System.out.println("s is "+s.trim().isEmpty());
 	     
-	     Date today = new Date();
-	     Date scheduled =new Date(2022,06,02);
-	     boolean a = scheduled.before(today);
+	//     Date today = new Date();
+	//     Date scheduled =new Date(2022,06,02);
+	//     boolean a = scheduled.before(today);
 	     long ls=1654273232613L;
 	     long ltodays=1654273353805L;
 	     
